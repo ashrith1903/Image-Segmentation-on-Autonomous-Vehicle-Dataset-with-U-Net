@@ -1,7 +1,7 @@
 # Image-Segmentation on Autonomous Vehicle-Dataset with U-Net
 
 # Overview
-This project focuses on performing image segmentation using the U-Net architecture on the CARLAS Self-Driving Car dataset. The primary goal is to accurately segment images into different classes, contributing to the development of advanced perception systems for autonomous vehicles
+This project focuses on performing image segmentation using the U-Net architecture on the CARLAS Self-Driving Car dataset. The primary goal is to accurately segment images into 23 different classes, contributing to the development of advanced perception systems for autonomous vehicles
 # Dataset
 The model is trained on the CARLAS Self-Driving Car dataset, which includes a diverse set of images representative of scenarios encountered by autonomous vehicles. The dataset is preprocessed and split into training and validation sets to ensure robust model training and evaluation.
 # Training
