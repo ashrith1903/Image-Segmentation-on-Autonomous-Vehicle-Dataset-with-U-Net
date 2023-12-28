@@ -3,7 +3,7 @@
 # Overview
 This project focuses on performing image segmentation using the U-Net architecture on the CARLAS Self-Driving Car dataset. The primary goal is to accurately segment images into 23 different classes, contributing to the development of advanced perception systems for autonomous vehicles
 # Dataset
-The model is trained on the CARLAS Self-Driving Car dataset, which includes a diverse set of images representative of scenarios encountered by autonomous vehicles. The dataset is preprocessed and split into training and validation sets to ensure robust model training and evaluation.
+The model is trained on the CARLAS Self-Driving Car dataset, which includes a diverse set of images representative of scenarios encountered by autonomous vehicles.
 # Training
 The U-Net model is trained on the dataset using TensorFlow's Keras API. The training process involves optimizing the model parameters to achieve high accuracy in segmenting images. 
 # Results
